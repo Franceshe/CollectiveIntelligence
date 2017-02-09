@@ -1,2 +1,2 @@
 # CollectiveIntelligence
-Examples from Programming Collective Intelligence ( http://oreilly.com/catalog/9780596529321/ )
+Examples from Programming Collective Intelligence ( http://oreilly.com/catalog/9780596529321/ ) updated for Python3
